@@ -1,0 +1,57 @@
+﻿ADM1_EN,ADM1_PCODE,subcounty,type,longitude,latitude,cdc
+Nairobi,KE047,Westlands ,SARI/ILI,36.80211,-1.2617,Yes
+Nairobi,KE047,Kibra ,FBS,36.80897,-1.29467,Yes
+Nairobi,KE047,Dagoretti North ,BIDS,36.80751,-1.28899,Yes
+Nairobi,KE047,Kamukunji ,EBS,36.8405,-1.28321,Yes
+Nairobi,KE047,Starehe,EBS,36.83661,-1.2789,Yes
+Turkana,KE023,,SARI/ILI,35.5928,4.03175,No
+Bomet,KE036,,,,,No
+Bungoma,KE039,,,,,No
+Busia,KE040,,FBS,34.07067,0.25266,Yes
+Elgeyo-Marakwet,KE028,,,,,No
+Embu,KE014,,,,,No
+Garissa,KE007,,,,,No
+Homa Bay,KE043,,,,,No
+Isiolo,KE011,,,,,No
+Kajiado,KE034,,,,,No
+Kakamega,KE037,,,,,No
+Kericho,KE035,,,,,No
+Kiambu,KE022,,,,,No
+Kilifi,KE003,,,,,No
+Kirinyaga,KE020,,,,,No
+Kisii,KE045,,,,,No
+Kisumu,KE042,,,,,No
+Kitui,KE015,,,,,No
+Kwale,KE002,,,,,No
+Laikipia,KE031,,,,,No
+Lamu,KE005,,,,,No
+Machakos,KE016,,,,,No
+Makueni,KE017,,,,,No
+Mandera,KE009,,,,,No
+Marsabit,KE010,,SARI/ILI,38.05954,2.31809,No
+Marsabit,KE010,,BIDS,38.00329,2.34008,No
+Meru,KE012,,BIDS,37.95563,0.2633,No
+Migori,KE044,,,,,No
+Mombasa,KE001,,SARI/ILI,39.6515,-4.0984,Yes
+Mombasa,KE001,,FBS,39.62859,-4.02597,Yes
+Murang'a,KE021,,,,,No
+Nakuru,KE032,,,,,No
+Nandi,KE029,,,,,No
+Narok,KE033,,,,,No
+Nyamira,KE046,,,,,No
+Nyandarua,KE018,,AMR,36.56489,-0.86052,Yes
+Nyandarua,KE018,,SARI/ILI,36.4143,-0.01049,Yes
+Nyandarua,KE018,,BIDS,36.56636,-0.86276,Yes
+Nyeri,KE019,,,,,No
+Samburu,KE025,,,,,No
+Siaya,KE041,,SARI/ILI,34.38582,-0.1815,Yes
+Siaya,KE041,,BIDS,34.29407,0.05668,Yes
+Taita Taveta,KE006,,,,,No
+Tana River,KE004,,,,,No
+Tharaka-Nithi,KE013,,,,,No
+Trans Nzoia,KE026,,,,,No
+Baringo,KE030,,,,,No
+Uasin Gishu,KE027,,,,,No
+Vihiga,KE038,,,,,No
+Wajir,KE008,,,,,No
+West Pokot,KE024,,,,,No
